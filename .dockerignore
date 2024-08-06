@@ -1,0 +1,6 @@
+node_modules/
+*.yaml
+env_dev_vpbank
+test_files/
+big-calendar/
+.env
